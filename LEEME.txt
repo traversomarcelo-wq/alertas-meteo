@@ -1,0 +1,11 @@
+PASOS (una sola vez)
+1. En github.com creá un repositorio PUBLICO, por ejemplo "alertas-meteo".
+2. Subí el contenido de esta carpeta tal cual (incluida la carpeta oculta .github).
+   Más fácil: "Add file > Upload files" y arrastrá todo; para .github creá el archivo
+   .github/workflows/alertas.yml a mano con "Create new file" y pegá su contenido.
+3. Settings > Pages > Source: "Deploy from a branch", branch main, carpeta /docs > Save.
+4. Settings > Actions > General > Workflow permissions: "Read and write permissions" > Save.
+5. Pestaña Actions > "Alertas SMN" > Run workflow (para no esperar 15 min).
+6. Abrí https://TUUSUARIO.github.io/alertas-meteo/alertas.json : debe decir "ok": true.
+7. Esa URL va en API_URL del archivo aviso_alerta_meteorologica.html.
+Nota: cada ejecución hace un commit chico; eso además evita que GitHub pause el programador.
