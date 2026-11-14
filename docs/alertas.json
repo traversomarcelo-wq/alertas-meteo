@@ -1,5 +1,16 @@
 {
   "ok": true,
-  "actualizado": "2026-11-13T23:24:18.189Z",
-  "alertas": []
+  "actualizado": "2026-11-14T03:29:39.318Z",
+  "alertas": [
+    {
+      "nivel": "naranja",
+      "evento": "Tormentas",
+      "titulo": "Tormentas",
+      "descripcion": "El &#xE1;rea ser&#xE1; afectada por tormentas fuertes, algunas severas. Las mismas podr&#xE1;n estar acompa&#xF1;adas por abundantes precipitaciones, granizo de diversos tama&#xF1;os, r&#xE1;fagas intensas que pueden exceder los 90 km/h y frecuente actividad el&#xE9;ctrica. Se esperan valores de precipitaci&#xF3;n acumulada entre 80 y 120 mm, que pueden ser superados de manera puntual.",
+      "instruccion": "1- Segu&#xED; las instrucciones de las autoridades locales. La calma es fundamental en estas situaciones. 2- Sal&#xED; solo si es necesario. 3- Permanec&#xE9; en construcciones cerradas como casas, escuelas, edificios p&#xFA;blicos. 4- Desconect&#xE1; los electrodom&#xE9;sticos y cort&#xE1; el suministro el&#xE9;ctrico si ingresa agua. 5- Cerr&#xE1; y al&#xE9;jate de puertas y ventanas. 6- Alejate de zonas inundables y no ingreses en calles anegadas. 7- Retir&#xE1; o asegur&#xE1; objetos que puedan ser volados por el viento. 8- Prepar&#xE1; un kit de emergencia con agua potable, alimentos, botiqu&#xED;n de primeros auxilios, radio a pilas y linterna. Carg&#xE1; los celulares con anticipaci&#xF3;n. 9- Agend&#xE1; los n&#xFA;meros locales de Protecci&#xF3;n Civil, Bomberos y Polic&#xED;a.",
+      "desde": "2026-11-13T23:11:15-03:00",
+      "hasta": "2026-11-14T08:59:59-03:00",
+      "enviado": "2026-11-13T23:11:15-03:00"
+    }
+  ]
 }
