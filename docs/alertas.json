@@ -1,5 +1,16 @@
 {
   "ok": true,
-  "actualizado": "2026-11-14T21:16:48.020Z",
-  "alertas": []
+  "actualizado": "2026-11-15T01:14:13.123Z",
+  "alertas": [
+    {
+      "nivel": "amarillo",
+      "evento": "Tormentas",
+      "titulo": "Tormentas",
+      "descripcion": "El &#xE1;rea ser&#xE1; afectada por tormentas, algunas fuertes o puntualmente severas. Las mismas podr&#xE1;n estar acompa&#xF1;adas por fuertes precipitaciones en cortos per&#xED;odos, frecuente actividad el&#xE9;ctrica, ocasional granizo y r&#xE1;fagas intensas. Se esperan valores de precipitaci&#xF3;n acumulada entre 30 y 70 mm, que pueden ser superados en forma puntual.",
+      "instruccion": "1- Evit&#xE1; salir. 2- No saques la basura y limpi&#xE1; desag&#xFC;es y sumideros. 3- Desconect&#xE1; los electrodom&#xE9;sticos y cort&#xE1; el suministro el&#xE9;ctrico si ingresa agua 4- Cerr&#xE1; y alejate de puertas y ventanas. 5- Retir&#xE1; o asegur&#xE1; objetos que puedan ser arrastrados por el viento. 6- Si est&#xE1;s al aire libre, busc&#xE1; refugio inmediato en un edificio, casa o veh&#xED;culo cerrado.",
+      "desde": "2026-11-16T21:00:00-03:00",
+      "hasta": "2026-11-17T08:59:59-03:00",
+      "enviado": "2026-11-14T21:06:38-03:00"
+    }
+  ]
 }
