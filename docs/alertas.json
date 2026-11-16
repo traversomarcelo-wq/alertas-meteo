@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "actualizado": "2026-11-16T07:08:58.298Z",
+  "actualizado": "2026-11-16T17:04:56.280Z",
   "alertas": [
     {
       "nivel": "amarillo",
@@ -10,7 +10,7 @@
       "instruccion": "1- Evit&#xE1; salir. 2- No saques la basura y limpi&#xE1; desag&#xFC;es y sumideros. 3- Desconect&#xE1; los electrodom&#xE9;sticos y cort&#xE1; el suministro el&#xE9;ctrico si ingresa agua 4- Cerr&#xE1; y alejate de puertas y ventanas. 5- Retir&#xE1; o asegur&#xE1; objetos que puedan ser arrastrados por el viento. 6- Si est&#xE1;s al aire libre, busc&#xE1; refugio inmediato en un edificio, casa o veh&#xED;culo cerrado.",
       "desde": "2026-11-16T21:00:00-03:00",
       "hasta": "2026-11-17T08:59:59-03:00",
-      "enviado": "2026-11-15T22:44:02-03:00"
+      "enviado": "2026-11-16T12:49:52-03:00"
     }
   ]
 }
