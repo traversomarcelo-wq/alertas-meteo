@@ -1,6 +1,5 @@
 {
-  "ok": false,
-  "error": "Error: HTTP 503 en https://ssl.smn.gob.ar/CAP/AR.php",
-  "actualizado": "2026-11-27T00:04:07.433Z",
+  "ok": true,
+  "actualizado": "2026-11-27T08:41:01.527Z",
   "alertas": []
 }
